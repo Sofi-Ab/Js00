@@ -3,5 +3,5 @@ let b = 20;
 
 [a,b]=[b,a];
 
-console.log ("New value of a: ", a);
-console.log ("New value of b: ", b);
+console.log ("New value of a: 20", a);
+console.log ("New value of b: 10", b);
